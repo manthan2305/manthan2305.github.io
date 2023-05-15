@@ -15,12 +15,12 @@
       institution: Gujarat Technological University, India
       year: 2020
       description:
-        - CGPA - 8.76.
+        - CGPA 8.76.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Higher School Certificate - Science
+    - title: Higher School Certificate (Science)
       institution: GSHSEB, India
       year: 2016
       description:
@@ -34,7 +34,7 @@
       year: Aug 2022 - Feb 2023
       description:
         - Conducted sprint planning meetings with the team to establish project goals, timelines, and deliverables.
-	      - Collaborating with clients to gather requirements, and provide regular project updates.
+        - Collaborating with clients to gather requirements, and provide regular project updates.
 
     - title: Machine Learning Engineer
       institution: Sportsseam, Pune, India
@@ -86,16 +86,16 @@ contents:
 #       items: 
 #         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - Intelligent video analytics
-    - Perception
-    - Medical Imaging
-    # - title: Artificial Intelligence
-    #   items:
-    #     - Pe
-    #     - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - Intelligent video analytics
+#     - Perception
+#     - Medical Imaging
+#     # - title: Artificial Intelligence
+#     #   items:
+#     #     - Pe
+#     #     - Description 2.
 
 - title: Other Interests
   type: list
