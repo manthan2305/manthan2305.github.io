@@ -89,9 +89,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - Intelligent video analytics
-    - Perception
-    - Medical Imaging
+    - items:
+      - Intelligent video analytics
+      - Perception
+      - Medical Imaging
     # - title: Artificial Intelligence
     #   items:
     #     - Pe
