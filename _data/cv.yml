@@ -15,12 +15,12 @@
       institution: Gujarat Technological University, India
       year: 2020
       description:
-        - CGPA 8.76.
+        - CGPA 8.76
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Higher School Certificate (Science)
+    - title: Higher School Certificate - Science
       institution: GSHSEB, India
       year: 2016
       description:
@@ -31,14 +31,14 @@
   contents:
     - title: Project Manager
       institution: Drhero, Dubai, UAE
-      year: Aug 2022 - Feb 2023
+      year: 08.2022 - 02.2023
       description:
         - Conducted sprint planning meetings with the team to establish project goals, timelines, and deliverables.
         - Collaborating with clients to gather requirements, and provide regular project updates.
 
     - title: Machine Learning Engineer
       institution: Sportsseam, Pune, India
-      year: March 2021 - June 2022
+      year: 03.2021 - 06.2022
       description:
         - title: Volleyball sports analytics
           contents:
@@ -53,17 +53,17 @@
 
     - title: Machine Learning Engineer
       institution: Technozer Solution, Surat, India
-      year: Sept 2020 - Feb 2021
+      year: 09.2020 - 02.2021
       description:
         - Developed end-to-end solution for object detection problem
         - Developed document scanner back-end
 
 - title: Internship
-- type: time_table
+  type: time_table
   contents:
     - title: Research Intern
       institution: Indian Institute of Technology, Mandi, India
-      year: June 2019 - Aug 2019
+      year: 06.2019 - 08.2019
       description:
         - Worked under Prof. Dr. Arnav Bhavsar on Microscopy image classification involving Human Protein Atlas
         - Project includes work on handling data imbalance, feature retention, and feature enhancements, resulting in achieving considerable accuracy for the majority of the common cell structures
