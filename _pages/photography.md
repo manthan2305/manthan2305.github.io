@@ -16,7 +16,13 @@ Apart from working on cutting-edge problems, there's another side of me that cra
 ---
 Some of my top picks are here:
 
-<img src="/assets/img/photo-2.jpg" alt="collage-1" width="800" height="400">
-<img src="/assets/img/photo-3.jpg" alt="collage-1" width="800" height="400">
-
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo-2.jpg" title="collage-1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photo-3.jpg" title="collage-2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
