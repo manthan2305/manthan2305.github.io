@@ -60,7 +60,7 @@
 
 - title: Internship
 - type: time_table
-contents:
+  contents:
     - title: Research Intern
       institution: Indian Institute of Technology, Mandi, India
       year: June 2019 - Aug 2019
@@ -86,16 +86,16 @@ contents:
 #       items: 
 #         - Max Planck Medal
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - Intelligent video analytics
-#     - Perception
-#     - Medical Imaging
-#     # - title: Artificial Intelligence
-#     #   items:
-#     #     - Pe
-#     #     - Description 2.
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - Intelligent video analytics
+    - Perception
+    - Medical Imaging
+    # - title: Artificial Intelligence
+    #   items:
+    #     - Pe
+    #     - Description 2.
 
 - title: Other Interests
   type: list
