@@ -43,13 +43,13 @@
         - title: Volleyball sports analytics
           contents:
             - Integrated state-of-the-art models to increase the accuracy of volleyball and player tracking.
-            - Used action recognition algorithms to identify player’s movement.
+            - Used action recognition algorithms to identify player's movement.
             - Actively supported the development of a ball-tracking algorithm.
         - title: Cricket fantasy sports platform - Spontasy
           contents:
-            - Implementation of new approaches for player’s fantasy points generation. 
-          	- Lead back-end, cloud, and data pipeline with one more software engineer to build an automated robust system for live matches.
-	          - Data analysis for extracting insights and improving prediction algorithm.
+            - Implementation of new approaches for player's fantasy points generation.
+            - Lead back-end, cloud, and data pipeline with one more software engineer to build an automated robust system for live matches.
+            - Data analysis for extracting insights and improving prediction algorithm.
 
     - title: Machine Learning Engineer
       institution: Technozer Solution, Surat, India
