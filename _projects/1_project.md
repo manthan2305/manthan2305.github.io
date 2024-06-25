@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 layout: page
 title: Microscopy Image Classification
