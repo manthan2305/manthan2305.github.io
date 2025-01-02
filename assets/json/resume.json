@@ -1,48 +1,39 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Manthan Solanki",
+    "label": "Programmer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "manthansolanki1999@gmail.com",
+    "url": "https://manthan2305.github.io/",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "_manthansolanki",
+        "url": "https://twitter.com/_manthansolanki"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Fraunhofer IPA, Stuttgart",
+      "position": "Research Assistant",
+      "url": "https://www.ipa.fraunhofer.de/",
+      "startDate": "2025-01-16",
+      "endDate": "Present",
+      "summary": "A single-arm robot designed to perform tasks in its environment based on voice commands",
+      "highlights": ["AI", "Robotics"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Greenteam - Uni-Stuttgart",
+      "location": "Stuttgart",
+      "position": "Supporter",
+      "url": "https://www.greenteam-stuttgart.de/",
+      "startDate": "2024-05-01",
+      "endDate": "2024-07-31",
+      "summary": "Working in the Driverless Team, specifically the ”Perception” package that includes camera calibration and object detection.",
+      "highlights": ["Vision", "Testing", "ROS"]
     }
   ],
   "education": [
