@@ -9,7 +9,25 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{
+  },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "post-the-compositional-leap-generative-ai-in-inverse-design-innovation",
+      
+        title: "The Compositional Leap - Generative AI in Inverse Design Innovation",
+      
+      description: "Recent advancements in the field of neural partial differential equation (PDE) solvers have revolutionized the design paradigm in engineering, particularly in the inverse design approach. The paper Compositional Generative Inverse Design by Wu et al., published in ICLR 2024, revisits the compositional inverse design using diffusion models. This approach outperforms both state-of-the-art generative models and classical PDE solvers by generating plausible and unique designs. This blog post explores the key contributions of this work, focusing on the strategies used to address the common problem of over-optimization and physically implausible design generation.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/cindm/";
+        
+      },
+    },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
