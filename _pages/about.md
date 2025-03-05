@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Programmer # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Building Intelligent Systems # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -14,8 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m just someone who loves solving problems and making things work better. 
+Hi, I'm Manthan, a passionate software engineer and machine learning researcher currently pursuing my Master’s in Computer Science (Autonomous Systems) at the [University of Stuttgart, Germany](https://www.uni-stuttgart.de/en/). My journey in AI and robotics is fueled by a deep curiosity for developing intelligent systems that interact seamlessly with the real world.
 
-I’m always curious about new and exciting technology and figuring out how to use it to tackle challenges in smarter ways.
-
-**I often share what fascinates me on [Medium](https://medium.com/@manthansolanki), [YouTube](https://www.youtube.com/@manthan1999), [X](https://x.com/_manthansolanki), and [Pinterest](https://in.pinterest.com/manthan1999/).**
+I'm always excited about collaborations, research opportunities, and challenging technical problems. Let’s connect and build something amazing together!

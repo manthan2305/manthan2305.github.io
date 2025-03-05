@@ -1,3 +1,3 @@
-I’m just someone who loves solving problems and making things work better. 
+Hi, I'm Manthan, a passionate software engineer and machine learning researcher currently pursuing my Master’s in Computer Science (Autonomous Systems) at the [University of Stuttgart, Germany](https://www.uni-stuttgart.de/en/). My journey in AI and robotics is fueled by a deep curiosity for developing intelligent systems that interact seamlessly with the real world.
 
-I’m always curious about new and exciting technology and figuring out how to use it to tackle challenges in smarter ways.
+I'm always excited about collaborations, research opportunities, and challenging technical problems. Let’s connect and build something amazing together!
