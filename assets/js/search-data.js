@@ -27,7 +27,10 @@ ninja.data = [{
           window.location.href = "/blog/2025/cindm/";
         
       },
-    },{
+    },{id: "news-started-a-hiwi-research-assistant-position-at-fraunhofer-ipa-to-work-on-ai-and-robotics",
+          title: 'Started a Hiwi (Research Assistant) position at Fraunhofer IPA to work on AI...',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
