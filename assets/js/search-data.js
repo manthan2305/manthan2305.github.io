@@ -34,11 +34,14 @@ ninja.data = [{
           window.location.href = "/blog/2025/cindm/";
         
       },
-    },{id: "news-started-a-hiwi-research-assistant-position-at-fraunhofer-ipa-to-work-on-ai-and-robotics",
+    },{id: "news-started-a-research-project-on-physics-guided-diffusion-in-mls-group",
+          title: 'Started a research project on Physics-Guided Diffusion in MLS group',
+          description: "",
+          section: "News",},{id: "news-started-a-hiwi-research-assistant-position-at-fraunhofer-ipa-to-work-on-ai-and-robotics",
           title: 'Started a Hiwi (Research Assistant) position at Fraunhofer IPA to work on AI...',
           description: "",
-          section: "News",},{id: "news-started-a-research-project-on-physics-guided-diffusion-in-mls-group",
-          title: 'Started a research project on Physics-Guided Diffusion in MLS group',
+          section: "News",},{id: "news-attended-the-two-week-ferienakademie-program-to-study-acoustic-signal-processing-under-prof-dr-ing-bernd-edler",
+          title: 'Attended the two-week Ferienakademie program to study Acoustic Signal Processing under Prof. Dr.-Ing....',
           description: "",
           section: "News",},{
       id: 'light-theme',
